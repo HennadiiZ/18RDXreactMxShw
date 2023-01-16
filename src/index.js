@@ -45,3 +45,5 @@ root.render(
 // 244 Migrating Everything To Redux Toolkit
 
 // 245 Working with Multiple Slices
+
+// 246 Reading & Dispatching From A New Slice
