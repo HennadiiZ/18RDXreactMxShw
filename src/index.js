@@ -22,3 +22,5 @@ root.render(
 // 234 Providing the Store
 
 // 235 Using Redux Data in React Components
+
+// 236 Dispatching Actions From Inside Components
