@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { Provider } from 'redux-redux';
+import { Provider } from 'react-redux';
 
 import './index.css';
 import App from './App';
@@ -20,3 +20,5 @@ root.render(
 // 233 Creating a Redux Store for React
 
 // 234 Providing the Store
+
+// 235 Using Redux Data in React Components
