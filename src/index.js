@@ -24,3 +24,5 @@ root.render(
 // 235 Using Redux Data in React Components
 
 // 236 Dispatching Actions From Inside Components
+
+// 237 Redux with Class-based Components
