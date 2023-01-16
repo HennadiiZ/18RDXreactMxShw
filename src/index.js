@@ -34,3 +34,8 @@ root.render(
 // 240 How To Work With Redux State Correctly
 
 // 241 Redux Challenges & Introducing Redux Toolkit (before)
+
+// Redux Challenges & Introducing Redux Toolkit 
+
+// 242 Adding State Slices
+  // npm install @reduxjs/toolkit
