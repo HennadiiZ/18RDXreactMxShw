@@ -28,3 +28,5 @@ root.render(
 // 237 Redux with Class-based Components
 
 // 238 Attaching Payloads to Actions
+
+// 239 Working with Multiple State Properties
